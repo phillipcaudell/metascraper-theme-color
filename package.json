@@ -1,0 +1,23 @@
+{
+  "name": "metascraper-theme-color",
+  "version": "1.0.0",
+  "description": "Get theme color property from HTML markup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "hello@notsobig.company",
+    "name": "notsobig.company",
+    "url": "https://notsobig.company"
+  },
+  "license": "ISC",
+  "keywords": [
+    "metascraper",
+    "color",
+    "theme"
+  ],
+  "dependencies": {
+    "@metascraper/helpers": "^5.25.2"
+  }
+}
